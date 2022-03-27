@@ -1,8 +1,9 @@
 import pytest
-from Application.AppiumApp import App
+from applications.appium_app import App
+
 
 @pytest.fixture(scope="session")
-def appfixture():
+def app():
     app = App()
     yield app
     app.destroy()

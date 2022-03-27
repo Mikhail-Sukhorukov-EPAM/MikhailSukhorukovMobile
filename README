@@ -1,6 +1,0 @@
-1. appium installed
-2. pipenv installed
-3. source code installed
-4. I can't connect to iMito by appium
-5. I have set ANDROID_PHISICAL capabilites in Application.Properties but I can't try to run test on native device
-because i can't connect to iMito by appium

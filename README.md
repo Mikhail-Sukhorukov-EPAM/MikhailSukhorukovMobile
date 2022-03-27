@@ -1,3 +1,0 @@
-# MikhailSukhorukovMobile
-hw
-some changes
